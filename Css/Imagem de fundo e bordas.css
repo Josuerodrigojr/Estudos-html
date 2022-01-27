@@ -1,0 +1,9 @@
+body{
+    background-image: url(../boku.jpg);
+}
+h1, p{
+    border-color:aqua;
+    border-style: solid;
+    border-width: 1px
+
+}
