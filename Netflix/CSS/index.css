@@ -1,0 +1,21 @@
+
+h1{
+    color:aliceblue;
+    font-size: 50px;
+    text-align: center;
+}
+body{
+    background-color: #040204;
+}
+p{
+    text-align: center;
+    font-size: 20px;
+    color: #5a5555;
+}
+h3{
+    background-color: rgb(15, 14, 13);
+    height: 50px;
+    width: 150px;
+    color: white;
+    text-align: center;
+}
