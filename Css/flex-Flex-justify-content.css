@@ -1,0 +1,48 @@
+.conteiner{
+    display: flex;
+    max-width: 400px;
+    margin: 0 auto;
+    border: 1px solid black; 
+}
+
+.item{
+   
+    margin: 5px;
+    background-color: #E1CD58;
+    text-align: center;
+    font-size: 1.5em;
+    color: #5C5324;
+
+}
+
+h1{
+    color:#5C4F08;
+    font-size: 1.8em;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+.start{
+    justify-content: flex-start;
+
+}
+
+.end{
+    justify-content: flex-end;
+}
+
+.center{
+    justify-content: center;
+}
+
+.space-between{
+    justify-content: space-between
+}
+
+.space-around {
+    justify-content: space-around;
+}
+
+.space-evenly{
+    justify-content: space-evenly;
+}
